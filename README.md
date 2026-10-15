@@ -24,7 +24,7 @@ Users can browse through various product categories, search and filter items, ma
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML5, CSS3 / Tailwind CSS / Bootstrap, JavaScript (ES6+) / React.js
-- **Backend:** Node.js / Express.js *(or Python / Django / Flask)*
+- **Backend:** Node.js / Express.js 
 - **Database:** MongoDB / PostgreSQL / MySQL
 - **State Management / Storage:** LocalStorage / Context API / Redux
 - **Version Control:** Git & GitHub
